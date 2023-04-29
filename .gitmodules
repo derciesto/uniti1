@@ -1,0 +1,3 @@
+[submodule "uniti2"]
+	path = uniti2
+	url = https://github.com/derciesto/uniti2.git
